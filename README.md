@@ -4,4 +4,5 @@ this repositery for my practice.
 this is description about my project. and here we will learn initilization on vscode.
 # html and css 2
 some text and properties added.
-creating conflicts between two branchs m.
+# conflicts situation
+creating conflicrts situation in main m.
